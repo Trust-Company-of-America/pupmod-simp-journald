@@ -1,11 +1,11 @@
 {
-  "name": "tcapuppet-journald",
+  "name": "tca_puppet_journald",
   "author": "TCA",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Configures journald",
-  "source": "git@github.com:Trust-Company-of-America/tca-puppet-journald.git",
-  "project_page": "hhttps://github.com/Trust-Company-of-America/tca-puppet-journald",
-  "issues_url": "https://github.com/Trust-Company-of-America/tca-puppet-journald/issues",
+  "source": "git@github.com:Trust-Company-of-America/tca_puppet_journald.git",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_journald",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_journald/issues",
   "tags": [
     "journald"
   ],
