@@ -3,9 +3,9 @@
   "author": "TCA",
   "version": "1.2.2",
   "summary": "Configures journald",
-  "source": "git@github.com:Trust-Company-of-America/tca-journald.git",
-  "project_page": "https://github.com/Trust-Company-of-America/tca-journald",
-  "issues_url": "https://github.com/Trust-Company-of-America/tca-journald/issues",
+  "source": "git@github.com:Trust-Company-of-America/tca-puppet-journald.git",
+  "project_page": "hhttps://github.com/Trust-Company-of-America/tca-puppet-journald",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca-puppet-journald/issues",
   "tags": [
     "journald"
   ],
