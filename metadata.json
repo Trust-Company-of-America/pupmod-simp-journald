@@ -1,5 +1,5 @@
 {
-  "name": "tca-journald",
+  "name": "tca-puppet-journald",
   "author": "TCA",
   "version": "1.2.2",
   "summary": "Configures journald",
